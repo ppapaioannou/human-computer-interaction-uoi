@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-06-04T12:32:59.275+03:00
+  initializedAtString: 2021-06-04T12:27:41.743+03:00
+  log:
+  - commitID: c331ba4179d24fb6d92d56e1be56e0f0761f974a
+    mergeA: 
+    mergeB: 
+    authorName: Elenaki
+    authorEmail: eleni.mouzaki@gmail.com
+    commitEmail: eleni.mouzaki@gmail.com
+    commitName: Elenaki
+    summary: Initial commit
+    description: 
+    timeString: 2021-06-03T20:32:45.000+03:00
+    commitTimeString: 2021-06-03T20:32:45.000+03:00
+    changes:
+    - path: .gitattributes
+      fullPath: "C:\\Users\\Eleni\\Desktop\\UoI\\\u039C\u03B1\u03B8\u03AE\u03BC\u03B1\u03C4\u03B1
+        \u03B5\u03C0\u03B9\u03BB\u03BF\u03B3\u03AE\u03C2 \u03B5\u03B1\u03C1\u03B9\u03BD\u03CC\\\u0391\u03BB\u03BB\u03B7\u03BB\u03B5\u03C0\u03AF\u03B4\u03C1\u03B1\u03C3\u03B7
+        \u0391\u03BD\u03B8\u03C1\u03CE\u03C0\u03BF\u03C5 \u03A5\u03C0\u03BF\u03BB\u03BF\u03B3\u03B9\u03C3\u03C4\u03AE\\Virtual
+        Art Gallery\\.gitattributes"
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: "C:\\Users\\Eleni\\Desktop\\UoI\\\u039C\u03B1\u03B8\u03AE\u03BC\u03B1\u03C4\u03B1
+        \u03B5\u03C0\u03B9\u03BB\u03BF\u03B3\u03AE\u03C2 \u03B5\u03B1\u03C1\u03B9\u03BD\u03CC\\\u0391\u03BB\u03BB\u03B7\u03BB\u03B5\u03C0\u03AF\u03B4\u03C1\u03B1\u03C3\u03B7
+        \u0391\u03BD\u03B8\u03C1\u03CE\u03C0\u03BF\u03C5 \u03A5\u03C0\u03BF\u03BB\u03BF\u03B3\u03B9\u03C3\u03C4\u03AE\\Virtual
+        Art Gallery\\.gitignore"
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: "C:\\Users\\Eleni\\Desktop\\UoI\\\u039C\u03B1\u03B8\u03AE\u03BC\u03B1\u03C4\u03B1
+        \u03B5\u03C0\u03B9\u03BB\u03BF\u03B3\u03AE\u03C2 \u03B5\u03B1\u03C1\u03B9\u03BD\u03CC\\\u0391\u03BB\u03BB\u03B7\u03BB\u03B5\u03C0\u03AF\u03B4\u03C1\u03B1\u03C3\u03B7
+        \u0391\u03BD\u03B8\u03C1\u03CE\u03C0\u03BF\u03C5 \u03A5\u03C0\u03BF\u03BB\u03BF\u03B3\u03B9\u03C3\u03C4\u03AE\\Virtual
+        Art Gallery\\Assets\\.gitignore"
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
